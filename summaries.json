@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2025-09-13T01:01:40.635323+00:00",
+  "chapters": {
+    "rutier": {
+      "summary": "În ultima săptămână, sectorul rutier a fost marcat de anunțuri privind investiții majore: demararea unui nou drum expres, accelerarea proiectului pentru al doilea pod Giurgiu–Ruse și utilizarea fondurilor SAFE și PNRR pentru Autostrada Moldovei și infrastructura strategică. În paralel, guvernul a confirmat că parte din împrumutul UE de 17 miliarde va fi direcționat către poduri și autostrăzi. Pe partea de costuri și siguranță, rovinieta și taxele de pod aproape se dublează, iar harta accidentelor indică DN1, DN2 și DN6 drept cele mai periculoase artere."
+    },
+    "feroviar": {
+      "summary": "În ultima săptămână, sectorul feroviar din România a fost marcat de întârzieri record (un tren a parcurs 80 km în peste 12 ore) și de accentuarea problemelor de infrastructură, inclusiv furturi de echipamente critice (relee și cabluri de 60.000 lei la Constanța) care au pus în pericol siguranța traficului. În paralel, tensiunile financiare dintre CFR SA și CFR Călători s-au amplificat, cu avertismentul suspendării trenurilor dacă nu sunt achitate datoriile, în timp ce comparațiile internaționale evidențiază decalaje majore de viteză și conectivitate față de țările vecine."
+    },
+    "portuar": {
+      "summary": ""
+    },
+    "aeroportuar": {
+      "summary": "În ultima săptămână, zona aeroportuară din România a fost marcată de evenimente diverse: capturarea și aducerea în țară, prin intermediul aeroportului, a unui infractor de pe lista „Most Wanted”, dar și un caz grav de crimă petrecut în Otopeni, în proximitatea aeroportului. În paralel, complexul acvatic de la Otopeni a găzduit Campionatul Mondial de juniori la înot, unde sportivii români au obținut rezultate notabile, inclusiv o medalie de bronz."
+    },
+    "energetic": {
+      "summary": "În ultima săptămână, sectorul energetic din România a fost marcat de investiții și consolidări pe piață: PPC Energy a finalizat o investiție majoră, iar Veolia România a intrat pe segmentul furnizării integrate prin preluarea General Me.el Electric. În paralel, persistă presiunea prețurilor ridicate la electricitate, descrisă ca „situație critică”, în timp ce autoritățile au clarificat că exporturile către Republica Moldova nu sunt gratuite. Contextul social rămâne însă dezechilibrat, peste 5.000 de familii confruntându-se cu lipsa accesului la energie, dincolo de problema facturilor."
+    },
+    "apa": {
+      "summary": "În ultima săptămână, în România a fost inaugurată cea mai lungă rețea de transport a apei potabile, cu o lungime de 164 km, destinată să îmbunătățească alimentarea în mai multe localități. Proiectul marchează o tendință de extindere a infrastructurii de apă la scară regională, cu accent pe reducerea disparităților între mediul urban și rural."
+    },
+    "canal": {
+      "summary": ""
+    },
+    "iluminat": {
+      "summary": ""
+    },
+    "deseuri": {
+      "summary": "În ultima săptămână, domeniul deșeurilor a marcat o premieră prin inaugurarea la Dumbrăvița a primului Centru de colectare cu aport voluntar din România. Proiectul, susținut de Ministerul Mediului, indică o tendință de extindere a infrastructurii pentru colectare selectivă și implicarea directă a comunităților locale în gestionarea deșeurilor."
+    },
+    "locala": {
+      "summary": ""
+    },
+    "sanatate": {
+      "summary": ""
+    },
+    "educationala": {
+      "summary": ""
+    },
+    "turistica": {
+      "summary": ""
+    },
+    "sportiva": {
+      "summary": ""
+    }
+  }
+}
