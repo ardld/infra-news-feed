@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2025-09-20T01:03:52.205106+00:00",
+  "chapters": {
+    "rutier": {
+      "summary": "În ultima săptămână, domeniul rutier a fost marcat de accent pe finanțare: Guvernul a contractat un împrumut de 500 milioane euro de la BEI pentru Autostrada Sibiu–Pitești, în timp ce premierul Bolojan a subliniat povara dobânzilor externe, echivalente cu costul Autostrăzii Moldovei (≈11 mld. euro anual). Totodată, presa a evidențiat dificultățile tehnice și întârzierile persistente pe cel mai complex proiect rutier național."
+    },
+    "feroviar": {
+      "summary": "În ultima săptămână, sectorul feroviar din România a fost marcat de întârzieri record, inclusiv un traseu de 80 km parcurs în peste 12 ore, și de comparații nefavorabile cu rețelele din Ungaria și Polonia, unde conexiunile turistice sunt mult mai rapide. În paralel, CFR Constanța a raportat furturi de echipamente critice (relee și cabluri de 60.000 lei), care au pus în pericol siguranța traficului. Tensiunile financiare dintre CFR SA și CFR Călători s-au accentuat, compania de infrastructură amenințând cu retragerea trenurilor din circulație dacă datoriile nu sunt achitate."
+    },
+    "portuar": {
+      "summary": ""
+    },
+    "aeroportuar": {
+      "summary": "În ultima săptămână, aeroportul Otopeni a fost implicat în operațiuni cu vizibilitate internațională, inclusiv transportul umanitar al pacienților palestinieni din Gaza către București. Totodată, au apărut controverse interne: dezvăluiri privind veniturile conducerii CNAB, incidente cu turiști străini la serviciile de rent-a-car și cazuri grave de criminalitate asociate zonei Otopeni. Tendința generală evidențiază contrastul între rolul strategic al aeroportului în misiuni externe și problemele persistente de imagine și securitate locală."
+    },
+    "energetic": {
+      "summary": "În ultima săptămână, sectorul energetic din România a fost marcat de creșterea consumului de electricitate în pofida facturilor mai ridicate și de accent pe modernizarea infrastructurii. Ministerul Energiei a reziliat contractul pentru termocentrala Iernut, blocată la 90% execuție, în timp ce PPC Energy a finalizat o investiție majoră, iar Veolia și-a extins prezența prin achiziția General Me.el Electric. Hidroelectrica a comunicat atât facilități de plată mai simple, cât și calendarul facturării pentru 2025, semnalând o orientare spre digitalizare și predictibilitate."
+    },
+    "apa": {
+      "summary": "În ultima săptămână, în domeniul apei au fost anunțate două evoluții notabile: inaugurarea celei mai lungi rețele de transport a apei potabile din România, cu o lungime de 164 km, care va îmbunătăți distribuția regională, și lansarea unui proiect-pilot într-o comună unde consumul și infrastructura de apă vor fi monitorizate prin inteligență artificială. Tendința este de digitalizare și extindere a rețelelor, cu accent pe eficiență și control în timp real."
+    },
+    "canal": {
+      "summary": "În ultima săptămână, domeniul „canal” a fost marcat de două direcții distincte: introducerea unui sistem de supraveghere bazat pe inteligență artificială într-o comună, cu transmiterea automată a datelor către autorități, și accentuarea discrepanțelor tarifare la apă și canalizare, unde localitățile sărace plătesc de până la două ori mai mult decât Bucureștiul. Diferențele de preț, inclusiv cazuri cu tarife de trei ori mai mici în anumite orașe față de restul județului, evidențiază inegalități regionale majore."
+    },
+    "iluminat": {
+      "summary": ""
+    },
+    "deseuri": {
+      "summary": "În ultima săptămână, gestionarea deșeurilor a fost marcată de două inițiative locale cu impact direct: Primăria unei localități din România a propus interzicerea coroanelor de flori în cimitire, pentru a reduce semnificativ volumul deșeurilor generate la evenimente funerare. Totodată, la Dumbrăvița a fost inaugurat primul Centru de colectare cu aport voluntar, considerat de Ministerul Mediului un model esențial pentru extinderea infrastructurii de reciclare la nivel național."
+    },
+    "locala": {
+      "summary": ""
+    },
+    "sanatate": {
+      "summary": ""
+    },
+    "educationala": {
+      "summary": ""
+    },
+    "turistica": {
+      "summary": ""
+    },
+    "sportiva": {
+      "summary": ""
+    }
+  }
+}
