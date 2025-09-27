@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2025-09-27T01:03:43.719507+00:00",
+  "chapters": {
+    "rutier": {
+      "summary": "În ultima săptămână, în domeniul rutier s-au evidențiat atât progrese, cât și blocaje: lucrările la autostrada Pitești–Sibiu avansează, iar două orașe vor fi conectate la rețeaua de autostrăzi în decembrie. În schimb, un tronson al A7 rămâne nefuncțional din cauza unor suduri defectuoase, blocând investiții majore. Pe zona transfrontalieră, podul rutier de la Sighetu Marmației intră în reparații, iar autoritățile maghiare au interceptat droguri pe ruta România–Italia."
+    },
+    "feroviar": {
+      "summary": "În ultima săptămână, sectorul feroviar din România a fost marcat de întârzieri record, inclusiv un caz în care un tren a parcurs 80 km în peste 12 ore, accentuând problemele cronice de infrastructură. În paralel, furturile de echipamente (relee și cabluri de zeci de mii de lei) au pus în pericol siguranța traficului. Comparativ regional, conexiunile feroviare spre principalele orașe turistice sunt mult mai lente decât în Ungaria sau Polonia, cu timpi de călătorie de peste cinci zile."
+    },
+    "portuar": {
+      "summary": ""
+    },
+    "aeroportuar": {
+      "summary": "În ultima săptămână, aeroportul Otopeni a fost implicat în operațiuni umanitare majore, prin aducerea în România a zece pacienți palestinieni grav bolnavi din Gaza pentru tratament. Totodată, aeroportul a fost în atenția publică prin controverse legate de nivelul veniturilor conducerii și prin incidente de securitate și criminalitate, inclusiv aducerea în țară a unui fugar de pe lista „Most Wanted” și cazuri violente petrecute în zona Otopeni. Tendința dominantă este accentuarea rolului aeroportului ca hub strategic atât pentru misiuni internaționale, cât și ca punct sensibil de securitate și imagine publică."
+    },
+    "energetic": {
+      "summary": "În ultima săptămână, sectorul energetic din România a fost marcat de accelerarea discuțiilor privind construcția reactoarelor 3 și 4 de la Cernavodă, cu apeluri politice pentru urgentarea proiectului. Hidroelectrica a trecut prin schimbări majore de conducere, dar a lansat și un formular unic pentru clienți, vizând simplificarea relației comerciale și plata facturilor. În paralel, Electrica a anunțat atingerea pragului de 4 milioane de clienți, iar întreruperi programate de curent au afectat mai multe orașe."
+    },
+    "apa": {
+      "summary": "În ultima săptămână, în domeniul apei s-au înregistrat două evoluții notabile: inaugurarea celei mai lungi rețele de transport a apei potabile din România, cu o lungime de 164 km, care va deservi mai multe localități și va îmbunătăți accesul la apă curată. În paralel, o comună a anunțat implementarea unui sistem de supraveghere bazat pe inteligență artificială pentru monitorizarea infrastructurii, marcând o tendință de digitalizare și automatizare în gestionarea resurselor de apă."
+    },
+    "canal": {
+      "summary": "În ultima săptămână, în domeniul „canal” au apărut două direcții notabile: implementarea unui sistem de monitorizare bazat pe inteligență artificială într-o comună, pentru supravegherea infrastructurii și transmiterea automată a datelor către autorități, respectiv accentuarea discrepanțelor tarifare la apă și canalizare, unde zonele sărace plătesc dublu față de București. Diferențele de costuri între localități evidențiază o problemă structurală de echitate și eficiență în gestionarea serviciilor publice."
+    },
+    "iluminat": {
+      "summary": ""
+    },
+    "deseuri": {
+      "summary": "În ultima săptămână, gestionarea deșeurilor a fost marcată de inițiative locale și măsuri inovatoare. În Bihor, voluntarii au strâns circa 300 de saci de gunoaie de pe malul unui lac, evidențiind presiunea poluării asupra ecosistemelor. În paralel, o primărie propune interzicerea coroanelor funerare pentru reducerea volumului deșeurilor, iar la Dumbrăvița a fost inaugurat primul centru național de colectare cu aport voluntar, semnalând o tendință de modernizare a infrastructurii de reciclare."
+    },
+    "locala": {
+      "summary": ""
+    },
+    "sanatate": {
+      "summary": ""
+    },
+    "educationala": {
+      "summary": ""
+    },
+    "turistica": {
+      "summary": ""
+    },
+    "sportiva": {
+      "summary": ""
+    }
+  }
+}
