@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2025-10-04T01:02:33.641622+00:00",
+  "chapters": {
+    "rutier": {
+      "summary": "În ultima săptămână, infrastructura rutieră din România a înregistrat progrese vizibile: au început lucrările pentru instalarea de radare fixe la fiecare 2 km pe o autostradă, iar noul pod peste Tisa, care va lega România de Ucraina, se apropie de finalizare. Totodată, prima porțiune de autostradă montană peste Carpați ar putea fi deschisă în circa un an, în timp ce vechiul pod rutier de la Sighetu Marmației intră în reparații."
+    },
+    "feroviar": {
+      "summary": "În ultima săptămână, domeniul feroviar a fost marcat de noi controverse privind serviciile CFR Călători: prețurile ridicate din vagoanele bar-bistro au atras critici, iar o cursă care a parcurs 80 km în peste 12 ore a evidențiat degradarea infrastructurii și lipsa de eficiență operațională. Tendința generală indică accentuarea nemulțumirilor publice față de calitatea serviciilor și de gestionarea companiei de stat."
+    },
+    "portuar": {
+      "summary": ""
+    },
+    "aeroportuar": {
+      "summary": "În ultima săptămână, activitatea aeroportuară din România a fost marcată de două transporturi cu impact public: aducerea în țară a unui infractor român căutat internațional și sosirea unui grup de pacienți palestinieni din Gaza pentru tratament medical, ambele prin Aeroportul Otopeni. Totodată, Otopeni a atras atenția prin dezvăluiri privind veniturile conducerii și printr-un incident de imagine legat de serviciile de închirieri auto, accentuând percepția negativă asupra calității serviciilor auxiliare."
+    },
+    "energetic": {
+      "summary": "În ultima săptămână, piața energetică românească a fost marcată de dezechilibre majore între producție și consum: exporturi diurne la prețuri minime (≈1 leu/MWh) și importuri de seară la tarife record (≈2.500 lei/MWh). Situația a readus în discuție nevoia de stocare și investiții în capacități stabile, în contextul în care autoritățile accelerează planurile pentru noile reactoare de la Cernavodă. În paralel, riscurile regionale au crescut după incidentul nuclear raportat în zona Cernobîl, iar unele orașe din țară au anunțat întreruperi temporare de alimentare."
+    },
+    "apa": {
+      "summary": "În ultima săptămână, sectorul apei din România a fost marcat de contrastul dintre întârzieri cronice și proiecte majore finalizate. Mai multe investiții de apă și canalizare sunt blocate de peste un deceniu, cu riscul dublării costurilor din cauza birocrației, în timp ce Craiova a inaugurat un sistem modern de alimentare cu apă de izvor, considerat cel mai mare proiect de profil din estul Europei. Totodată, s-a dat în folosință cea mai lungă rețea de transport a apei potabile din țară (164 km), iar o comună va implementa monitorizarea infrastructurii prin inteligență artificială."
+    },
+    "canal": {
+      "summary": "În ultima săptămână, domeniul canalizării a fost marcat de accentuarea problemelor structurale: proiecte de apă și canalizare întârziate cu până la un deceniu și riscul dublării costurilor din cauza birocrației. Disparitățile regionale s-au adâncit, zonele sărace plătind tarife la apă de până la două ori mai mari decât în București, în timp ce 40% din populație rămâne fără canalizare. Totodată, apare o tendință de digitalizare, o comună urmând să fie monitorizată prin inteligență artificială pentru gestionarea infrastructurii."
+    },
+    "iluminat": {
+      "summary": ""
+    },
+    "deseuri": {
+      "summary": "În ultima săptămână, discuțiile din domeniul deșeurilor au evidențiat riscul ca România să nu atingă țintele de reciclare pentru 2025, conform unui raport al Agenției Europene de Mediu și declarațiilor Dianei Buzoianu. Totodată, sistemul de garanție-returnare (SGR) este menționat ca principal factor al progreselor recente, în special în reciclarea aluminiului. Pe plan local, acțiunile de voluntariat, precum cea din Bihor, subliniază implicarea civică în lipsa unei infrastructuri eficiente de colectare și tratare."
+    },
+    "locala": {
+      "summary": ""
+    },
+    "sanatate": {
+      "summary": ""
+    },
+    "educationala": {
+      "summary": ""
+    },
+    "turistica": {
+      "summary": ""
+    },
+    "sportiva": {
+      "summary": ""
+    }
+  }
+}
