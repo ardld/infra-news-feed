@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2025-10-11T01:03:58.059735+00:00",
+  "chapters": {
+    "rutier": {
+      "summary": "În ultima săptămână, atenția în domeniul rutier s-a concentrat pe finanțarea și extinderea rețelei de autostrăzi, în special pe proiectul A1 Sibiu–Pitești, pentru care România a contractat un împrumut de 500 milioane euro de la BEI. Autoritățile au subliniat impactul economic pozitiv al investițiilor, în timp ce dezbaterile publice au evidențiat costurile ridicate ale datoriei naționale raportate la infrastructura rutieră realizată. Totodată, a fost inaugurată o nouă autostradă, semnalând accelerarea ritmului de deschidere a tronsoanelor."
+    },
+    "feroviar": {
+      "summary": "În ultima săptămână, sectorul feroviar românesc a fost marcat de anunțuri privind modernizarea materialului rulant, prin introducerea de locomotive capabile să recupereze și să livreze energie în rețeaua națională – o tendință spre eficiență energetică și sustenabilitate. În paralel, CFR Călători a atras atenția prin publicarea prețurilor ridicate din vagoanele bar-bistro, semnalând presiuni inflaționiste și nevoia de ajustare a ofertei comerciale. Contextul general al investițiilor rămâne însă afectat de constrângerile impuse de regulamentele europene privind finanțarea energetică."
+    },
+    "portuar": {
+      "summary": "În ultima săptămână, domeniul portuar din România a atras atenția prin implicarea DP World, care a organizat Romanian Open Championship, consolidând imaginea companiei ca actor strategic și promotor al brandului național. Evenimentul indică o tendință de diversificare a activităților portuare către inițiative de imagine și parteneriate internaționale, menite să crească vizibilitatea României în rețeaua globală a DP World."
+    },
+    "aeroportuar": {
+      "summary": "În ultima săptămână, activitatea aeroportuară din România s-a concentrat pe operațiuni speciale și aspecte de imagine publică. Aeroportul Otopeni a fost punctul de sosire pentru un infractor român capturat în Spania și pentru pacienți palestinieni aduși în cadrul unei misiuni umanitare din Gaza. În paralel, atenția publică s-a îndreptat spre transparența veniturilor conducerii aeroportului și spre incidente izolate care afectează reputația serviciilor auxiliare."
+    },
+    "energetic": {
+      "summary": "În ultima săptămână, piața energetică din România a fost marcată de anunțurile privind noile tarife pentru 2026, unde un furnizor nou a afișat prețuri apropiate de cele ale Hidroelectrica, sub nivelul PPC. Transelectrica a confirmat majorarea tarifelor din octombrie, ceea ce va duce la scumpirea facturilor, iar Electrica a emis o alertă privind posibile impacturi asupra consumatorilor. În paralel, Ministerul Energiei a anunțat măsuri pentru accelerarea tranziției energetice, în timp ce ENGIE a testat în Franța oferte promoționale de energie gratuită, semnalând tendințe de diversificare comercială."
+    },
+    "apa": {
+      "summary": "În ultima săptămână, domeniul apei din România a fost marcat de contrastul dintre extinderea infrastructurii și persistența deficitului de acces. Au fost inaugurate proiecte majore – rețeaua de 164 km și sistemul de alimentare cu apă de izvor la Craiova – în timp ce o treime din populație rămâne fără apă potabilă, iar multe lucrări de apă-canal au întârzieri de până la un deceniu. Totodată, apare tendința digitalizării prin folosirea inteligenței artificiale pentru monitorizarea rețelelor locale."
+    },
+    "canal": {
+      "summary": "În ultima săptămână, tema canalizării a fost dominată de rapoarte privind criza apei și întârzierile majore în proiectele de infrastructură. Aproximativ 40% din populație nu are acces la canalizare, iar birocrația a blocat investiții PNRR chiar și cu un deceniu, crescând costurile. În paralel, fenomenele meteo extreme și inițiativele de digitalizare locală accentuează contrastul dintre lipsa infrastructurii de bază și noile tehnologii implementate experimental."
+    },
+    "iluminat": {
+      "summary": ""
+    },
+    "deseuri": {
+      "summary": "În ultima săptămână, discuțiile din domeniul deșeurilor au evidențiat riscul ca România să nu atingă țintele europene de reciclare pentru 2025, conform unui raport al Agenției Europene de Mediu și declarațiilor oficiale. Totuși, sistemul de garanție-returnare (SGR) este menționat ca factor de progres, mai ales în reciclarea aluminiului. În paralel, acțiunile civice de curățare, precum cea din Bihor, arată o creștere a implicării publice în gestionarea deșeurilor."
+    },
+    "locala": {
+      "summary": ""
+    },
+    "sanatate": {
+      "summary": ""
+    },
+    "educationala": {
+      "summary": ""
+    },
+    "turistica": {
+      "summary": ""
+    },
+    "sportiva": {
+      "summary": ""
+    }
+  }
+}
