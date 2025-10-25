@@ -1,0 +1,335 @@
+{
+  "generatedAt": "2025-10-25T01:06:54",
+  "chapters": {
+    "rutier": {
+      "news": [
+        {
+          "title": "Se schimbă complet modul prin care se va face trecerea pe „Podul Prieteniei” - Taxa de pod va putea fi plătită electronic",
+          "url": "https://www.stiripesurse.ro/se-schimba-complet-modul-prin-care-se-va-face-trecerea-pe-podul-prieteniei_3823870",
+          "publishedAt": "2025-10-23T16:36:43Z"
+        },
+        {
+          "title": "Comisia Europeană a aprobat varianta finală a PNRR. Câţi bani primește România, cele opt spitale noi și Autostrada A7 rămân în plan",
+          "url": "https://www.romaniatv.net/comisia-europeana-a-aprobat-varianta-finala-a-pnrr-cati-bani-primeste-romania-cele-opt-spitale-noi-si-autostrada-a7-raman-in-plan_9207232.html",
+          "publishedAt": "2025-10-22T15:16:59Z"
+        },
+        {
+          "title": "Nou drum expres în România: „Someș Expres” va lega Satu Mare de Ungaria",
+          "url": "https://www.promotor.ro/stiri-auto/nou-drum-expres-in-romania-somes-expres-va-lega-satu-mare-de-ungaria-19428265",
+          "publishedAt": "2025-10-21T10:23:39Z"
+        },
+        {
+          "title": "Se construiește drumul în regim de autostradă, care va lega România de Ungaria: Se unește cu M49 din țara vecină",
+          "url": "https://www.stiripesurse.ro/se-construieste-drumul-care-va-lega-romania-de-ungaria_3822996",
+          "publishedAt": "2025-10-21T09:26:34Z"
+        },
+        {
+          "title": "Se construiește un nou drum expres care va lega România de Ungaria",
+          "url": "https://www.antena3.ro/actualitate/se-construieste-un-nou-drum-expres-care-va-lega-romania-de-ungaria-763868.html",
+          "publishedAt": "2025-10-21T08:56:00Z"
+        },
+        {
+          "title": "VIDEO | Cum arată cea mai nouă secțiune de autostradă inaugurată în România. Are 20 de poduri și pasaje și a costat aproape 1.5 miliarde lei",
+          "url": "https://www.promotor.ro/stiri-auto/video-cum-arata-cea-mai-noua-sectiune-de-autostrada-inaugurata-in-romania-are-20-de-poduri-si-pasaje-si-a-costat-peste-1-2-miliarde-de-lei-19428158",
+          "publishedAt": "2025-10-20T11:53:06Z"
+        },
+        {
+          "title": "Autostradă Constanța - Grecia, un proiect de șase miliarde susținut de Bruxelles",
+          "url": "https://evz.ro/autostrada-constanta-grecia-un-proiect-de-sase-miliarde-sustinut-de-bruxelles.html",
+          "publishedAt": "2025-10-20T08:28:44Z"
+        },
+        {
+          "title": "Liliecii și ciocănitoarele blochează un mega pod peste Dunăre: Riscă să fie amânat pe termen nedeterminat",
+          "url": "https://www.stiripesurse.ro/liliecii-si-ciocanitoarele-blocheaza-un-mega-pod-peste-dunare_3822580",
+          "publishedAt": "2025-10-20T07:58:55Z"
+        },
+        {
+          "title": "Se construiește autostrada direct din România până în Grecia: La Bruxelles a fost desemnată drept 'prioritate absolută'",
+          "url": "https://www.stiripesurse.ro/autostrada-direct-romania-grecia-prioritate-absoluta_3822525",
+          "publishedAt": "2025-10-20T05:40:26Z"
+        },
+        {
+          "title": "Bulgaria cere un nou pod peste Dunăre la Călărași - Silistra",
+          "url": "https://www.g4media.ro/bulgaria-cere-un-nou-pod-peste-dunare-la-calarasi-silistra.html",
+          "publishedAt": "2025-10-20T05:09:45Z"
+        }
+      ]
+    },
+    "feroviar": {
+      "news": [
+        {
+          "title": "Trecerea la ora de iarnă. Mersul trenurilor în noaptea de 25 spre 26 octombrie",
+          "url": "https://evz.ro/trecerea-la-ora-de-iarna-mersul-trenurilor-in-noaptea-de-25-spre-26-octombrie.html",
+          "publishedAt": "2025-10-24T07:29:07Z"
+        },
+        {
+          "title": "După haosul din gări, CFR reacționează la amenințările ministrului Transporturilor",
+          "url": "https://www.stiripesurse.ro/haos-gari-cfr-reactioneaza-la-amenintarile-ministrului-transporturilor-situatia-financiara-este-grava_3823048",
+          "publishedAt": "2025-10-21T11:01:02Z"
+        },
+        {
+          "title": "Haos pe CFR. Navetiștii au rămas fără opțiuni după ce compania a retras zeci de curse peste noapte",
+          "url": "https://evz.ro/haos-pe-cfr-navetistii-au-ramas-fara-optiuni-dupa-ce-compania-a-retras-zeci-de-curse-peste-noapte.html",
+          "publishedAt": "2025-10-21T10:57:45Z"
+        },
+        {
+          "title": "Haos în gări: datorii uriașe, trenuri trase pe linie moartă",
+          "url": "https://www.stiripesurse.ro/haos-in-gari-datorii-uriase-trenuri-trase-pe-linie-moarta_3822969",
+          "publishedAt": "2025-10-21T08:38:22Z"
+        },
+        {
+          "title": "Haos în gări. Zeci de trenuri ale CFR Călători au fost suspendate. Elevii şi muncitorii au aflat abia pe peron că nu au cu ce pleca",
+          "url": "https://www.antena3.ro/actualitate/haos-in-gari-dupa-ce-zeci-de-trenuri-ale-cfr-calatori-au-fost-suspendate-elevii-profesorii-si-muncitorii-sunt-revoltati-763838.html",
+          "publishedAt": "2025-10-21T06:44:00Z"
+        },
+        {
+          "title": "Circulaţia mai multor trenuri operate de CFR Călători este suspendată",
+          "url": "https://www.stiripesurse.ro/circulatia-mai-multor-trenuri-operate-de-cfr-calatori-este-suspendata_3822878",
+          "publishedAt": "2025-10-20T22:46:29Z"
+        },
+        {
+          "title": "Sindicaliştii feroviari cer întâlnire urgentă cu ministerele transporturilor și finanțelor: Nu se mai pot asigura plata salariilor angajaţilor / Calea ferată din România se confruntă de ani de zile cu",
+          "url": "https://www.g4media.ro/sindicalistii-feroviari-cer-intalnire-urgenta-cu-ministerele-transporturilor-si-finantelor-nu-se-mai-pot-asigura-plata-salariilor-angajatilor-calea-ferata-din-romania-se-confrunta-de-ani-de-zile-cu.html",
+          "publishedAt": "2025-10-17T10:23:42Z"
+        },
+        {
+          "title": "Ministrul Transporturilor Anunta 2 Proiecte de Ultima Ora foarte Importante in Romania",
+          "url": "https://www.idevice.ro/2025/10/16/ministrul-transporturilor-anunta-2-proiecte-ultima-ora-importante-romania-626980/",
+          "publishedAt": "2025-10-16T13:09:22Z"
+        },
+        {
+          "title": "Carpatica Feroviar România, companie cu capital integral de stat, începe o campanie masivă de angajări. Câte posturi sunt disponibile și ce specializări se caută: ”Oferim cursuri de formare profesiona",
+          "url": "https://www.romaniatv.net/carpatica-feroviar-romania-companie-cu-capital-integral-de-stat-incepe-o-campanie-masiva-de-angajari-cate-posturi-sunt-disponibile-si-ce-specializari-se-cauta-oferim-cursuri-de-formare-pr_9195781.html",
+          "publishedAt": "2025-10-16T11:40:33Z"
+        },
+        {
+          "title": "Singura societate înfiinţată după Revoluţie cu capital integral de stat începe angajările. „Oferim cursuri de formare profesională”",
+          "url": "https://www.antena3.ro/economic/companii/singura-societate-infiintata-dupa-revolutie-cu-capital-integral-de-stat-incepe-angajarile-oferim-cursuri-de-formare-profesionala-763013.html",
+          "publishedAt": "2025-10-14T09:41:00Z"
+        }
+      ]
+    },
+    "portuar": {
+      "news": [
+        {
+          "title": "DP World pune România pe harta golfului de elită prin Romanian Open Championship",
+          "url": "https://www.romaniatv.net/dp-world-pune-romania-pe-harta-golfului-de-elita-prin-romanian-open-championship_9175444.html",
+          "publishedAt": "2025-10-06T14:44:14Z"
+        }
+      ]
+    },
+    "aeroportuar": {
+      "news": [
+        {
+          "title": "Pacientul ars în explozia din Rahova va fi readus în România, după tratamentul din Austria",
+          "url": "https://www.stiripesurse.ro/pacient-ars-explozie-rahova-readus-romania-tratament-austria_3823499",
+          "publishedAt": "2025-10-22T12:37:23Z"
+        },
+        {
+          "title": "Un albanez a zburat în România cu 22 de kilograme de canabis la îndemână. A fost oprit pe Aeroportul Otopeni",
+          "url": "https://www.libertatea.ro/stiri/albanez-zburat-romania-22-kilograme-canabis-oprit-aeroport-otopeni-5489592",
+          "publishedAt": "2025-10-18T12:46:14Z"
+        },
+        {
+          "title": "Un albanez a fost prins când încerca să introducă, în România, 22 de kilograme de canabis. Cum le transporta",
+          "url": "https://www.antena3.ro/actualitate/un-albanez-a-fost-prins-cand-incerca-sa-introduca-in-romania-22-de-kilograme-de-canabis-cum-le-transporta-763577.html",
+          "publishedAt": "2025-10-18T09:34:00Z"
+        },
+        {
+          "title": "Unul dintre cei mai căutați infractori români a fost prins în Spania și adus la Otopeni. Era pe lista ”Most Wanted” din 2023",
+          "url": "https://stirileprotv.ro/justitie/unul-dintre-cei-mai-cautati-infractori-romani-prins-in-spania-si-adus-la-otopeni-fusese-condamnat-la-sase-ani-de-inchisoare.html",
+          "publishedAt": "2025-09-27T16:11:00Z"
+        },
+        {
+          "title": "Unul dintre cei mai căutați infractori din România a fost prins în Spania și adus în țară. Fapta pentru care a fost condamnat",
+          "url": "https://stirileprotv.ro/justitie/unul-dintre-cei-mai-cautati-infractori-din-romania-a-fost-prins-in-spania-si-adus-in-tara-fapta-pentru-care-a-fost-condamnat.html",
+          "publishedAt": "2025-09-27T04:15:00Z"
+        }
+      ]
+    },
+    "energetic": {
+      "news": [
+        {
+          "title": "Sorin Grindeanu aduce vești extraordinare pentru România, de la Comisia Europeană: 15.000 de locuri de muncă sunt protejate",
+          "url": "https://www.stiripesurse.ro/sorin-grindeanu-romania-comisia-europeana-15000-munca-sunt-protejate_3823828",
+          "publishedAt": "2025-10-23T09:34:25Z"
+        },
+        {
+          "title": "ANUNȚ de ultimă oră de la Hidroelectrica. Sunt vizați toți clienții!",
+          "url": "https://www.romaniatv.net/anunt-de-ultima-ora-de-la-hidroelectrica-sunt-vizati-toti-clientii_9207523.html",
+          "publishedAt": "2025-10-22T18:33:42Z"
+        },
+        {
+          "title": "VIDEO România s-a impus la UE! Trei termocentrale pe cărbune vor rămâne active până în 2029 / Bogdan Ivan: Iernut și Mintia sunt prioritare",
+          "url": "https://www.stiripesurse.ro/romania-s-a-impus-la-ue-trei-termocentrale-pe-carbune-vor-ramane-active-pana-in-2029_3823559",
+          "publishedAt": "2025-10-22T15:37:45Z"
+        },
+        {
+          "title": "Transelectrica pornește construcția a două linii strategice de 400 kV. Astfel, România îşi întărește legătura cu Moldova",
+          "url": "https://www.antena3.ro/economic/transelectrica-porneste-constructia-a-doua-linii-strategice-de-400-kv-astfel-romania-isi-intareste-legatura-cu-moldova-763902.html",
+          "publishedAt": "2025-10-21T11:45:00Z"
+        },
+        {
+          "title": "Care sunt furnizorii ce oferă cele mai bune prețuri la energie electrică în octombrie 2025. Prețul mediu a scăzut, iar PPC vine cu o ofertă incredibilă TABEL",
+          "url": "https://www.romaniatv.net/care-sunt-furnizorii-ce-ofera-cele-mai-bune-preturi-la-energie-electrica-in-octombrie-2025-pretul-mediu-a-scazut-iar-ppc-vine-cu-o-oferta-incredibila-tabel_9194065.html",
+          "publishedAt": "2025-10-15T13:37:40Z"
+        },
+        {
+          "title": "ELECTRICA Anunta Finalizarea unor IMPORTANTE Proiecte pentru Reteaua Electrica din Romania",
+          "url": "https://www.idevice.ro/2025/10/15/electrica-finalizare-proiecte-deer-626864/",
+          "publishedAt": "2025-10-15T08:25:32Z"
+        },
+        {
+          "title": "50% din producția internă. Depozitele de gaze riscă să nu fie pline la iarnă",
+          "url": "https://www.libertatea.ro/stiri/romania-import-record-gaze-bulgaria-5484810",
+          "publishedAt": "2025-10-15T06:02:58Z"
+        },
+        {
+          "title": "Hidroelectrica, nou anunț despre facturi pentru cei 900.000 de clienți. Modificări importante în portal",
+          "url": "https://www.libertatea.ro/stiri/hidroelectrica-nou-anunt-facturi-900000-clienti-modificari-portal-5482895",
+          "publishedAt": "2025-10-13T12:45:14Z"
+        },
+        {
+          "title": "Charlie Ottley a stat fără curent trei zile și acum ministrul Bogdan Ivan amenință compania cu sancțiuni. Cum a reacționat Electrica",
+          "url": "https://www.antena3.ro/actualitate/charlie-ottley-a-stat-fara-curent-trei-zile-si-acum-ministrul-bogdan-ivan-ameninta-compania-cu-sanctiuni-cum-a-reactionat-electrica-762775.html",
+          "publishedAt": "2025-10-12T09:55:00Z"
+        },
+        {
+          "title": "România are cea mai scumpă energie electrică din Europa, a recunoscut chiar ministrul Energiei. Franța: 61 euro, România 154",
+          "url": "https://stirileprotv.ro/stiri/actualitate/romania-are-cea-mai-scumpa-energie-electrica-din-europa-a-recunoscut-chiar-ministrul-energiei-franta-61-euro-romania-154.html",
+          "publishedAt": "2025-10-11T09:37:00Z"
+        }
+      ]
+    },
+    "apa": {
+      "news": [
+        {
+          "title": "Declaratiile Ministrului Mediului Foarte Importante in Cadrul unui Consiliu European",
+          "url": "https://www.idevice.ro/2025/10/22/declaratiile-ministrului-mediului-importante-cadrul-consiliu-european-627496/",
+          "publishedAt": "2025-10-22T11:40:24Z"
+        },
+        {
+          "title": "„Apă cu porția” în România anului 2025. O treime din populație trăiește fără apă potabilă",
+          "url": "https://www.antena3.ro/conferinte/conferintele-ro-3-0/apa-cu-portia-in-romania-anului-2025-o-treime-din-populatie-traieste-fara-apa-potabila-762362.html",
+          "publishedAt": "2025-10-08T13:31:00Z"
+        },
+        {
+          "title": "Proiecte de apă și canalizare întârziate chiar și 10 ani. Experți: costurile se pot dubla din cauza birocrației",
+          "url": "https://www.antena3.ro/conferinte/conferintele-romania-inteligenta/proiecte-de-apa-si-canalizare-intarziate-chiar-si-10-ani-experti-costurile-se-pot-dubla-din-cauza-birocratiei-761823.html",
+          "publishedAt": "2025-10-03T12:52:00Z"
+        },
+        {
+          "title": "Craiova, apă de izvor la robinet. Cristian Erbașu: „A fost cel mai mare proiect de profil din estul Europei din ultimii 20-25 de ani”",
+          "url": "https://www.antena3.ro/conferinte/conferintele-romania-inteligenta/craiova-apa-de-izvor-la-robinet-cristian-erbasu-a-fost-cel-mai-mare-proiect-de-profil-din-estul-europei-din-ultimii-20-25-de-ani-761790.html",
+          "publishedAt": "2025-10-03T09:16:00Z"
+        }
+      ]
+    },
+    "canal": {
+      "news": [
+        {
+          "title": "Declaratiile Ministrului Mediului Foarte Importante in Cadrul unui Consiliu European",
+          "url": "https://www.idevice.ro/2025/10/22/declaratiile-ministrului-mediului-importante-cadrul-consiliu-european-627496/",
+          "publishedAt": "2025-10-22T11:40:24Z"
+        },
+        {
+          "title": "Ministrul Mediului, Diana Buzoianu, cere fonduri europene pentru finanţarea infrastructurii de apă şi canalizare din România",
+          "url": "https://www.stiripesurse.ro/ministrul-mediului-diana-buzoianu-cere-fonduri-europene-pentru-finantarea-infrastructurii-de-apa-si-canalizare-din-romania_3823174",
+          "publishedAt": "2025-10-21T15:33:30Z"
+        },
+        {
+          "title": "Proiectele de apă și canalizare din România, blocate în birocrație",
+          "url": "https://www.antena3.ro/emisiuni/romania-inteligenta/proiectele-de-apa-si-canalizare-din-romania-blocate-in-birocratie-763721.html",
+          "publishedAt": "2025-10-20T09:35:00Z"
+        },
+        {
+          "title": "„Apă cu porția” în România anului 2025. O treime din populație trăiește fără apă potabilă",
+          "url": "https://www.antena3.ro/conferinte/conferintele-ro-3-0/apa-cu-portia-in-romania-anului-2025-o-treime-din-populatie-traieste-fara-apa-potabila-762362.html",
+          "publishedAt": "2025-10-08T13:31:00Z"
+        },
+        {
+          "title": "Imagini cu dezastrul provocat de ciclonul care a lovit România. În sudul ţării a plouat în câteva ore cât pentru două luni",
+          "url": "https://www.antena3.ro/actualitate/imagini-cu-dezastrul-provocat-de-ciclonul-care-a-lovit-romania-in-sudul-tarii-a-plouat-in-cateva-ore-cat-pentru-doua-luni-761872.html",
+          "publishedAt": "2025-10-04T06:26:00Z"
+        },
+        {
+          "title": "Proiectele PNRR de Importanta Nationala pentru Romania, Anuntate de Diana Buzoianu",
+          "url": "https://www.idevice.ro/2025/10/03/proiectele-pnrr-importanta-nationala-romania-anuntate-diana-buzoianu-625910/",
+          "publishedAt": "2025-10-03T17:30:57Z"
+        },
+        {
+          "title": "Proiecte de apă și canalizare întârziate chiar și 10 ani. Experți: costurile se pot dubla din cauza birocrației",
+          "url": "https://www.antena3.ro/conferinte/conferintele-romania-inteligenta/proiecte-de-apa-si-canalizare-intarziate-chiar-si-10-ani-experti-costurile-se-pot-dubla-din-cauza-birocratiei-761823.html",
+          "publishedAt": "2025-10-03T12:52:00Z"
+        },
+        {
+          "title": "Criza apei în România: 40% din populație nu are canalizare, iar 30% nu are acces la apă curentă",
+          "url": "https://www.antena3.ro/conferinte/conferintele-romania-inteligenta/criza-apei-in-romania-40-din-populatie-nu-are-canalizare-iar-30-nu-are-acces-la-apa-curenta-761766.html",
+          "publishedAt": "2025-10-03T07:03:00Z"
+        }
+      ]
+    },
+    "iluminat": {
+      "news": []
+    },
+    "deseuri": {
+      "news": [
+        {
+          "title": "„Orașul gunoaielor” din România. Se formează grămezi de deșeuri lângă insulele ecologice care au înlocuit pubelele",
+          "url": "https://stirileprotv.ro/stiri/actualitate/gramezi-de-gunoi-au-aparut-in-zona-mai-multor-zone-de-reciclare-din-arad-vinovatii-risca-amenzi-uriase.html",
+          "publishedAt": "2025-10-23T14:01:00Z"
+        },
+        {
+          "title": "Un cetățean din UE produce anual peste 35 kg de deșeuri din plastic / România reciclează doar o treime din cantitate, semnificativ sub media europeană / Aproape 80 de milioane de tone de deșeuri din a",
+          "url": "https://www.g4media.ro/un-cetatean-din-ue-produce-anual-peste-35-kg-de-deseuri-din-plastic-romania-recicleaza-doar-o-treime-din-cantitate-semnificativ-sub-media-europeana-aproape-80-de-milioane-de-tone-de-deseuri-din-a.html",
+          "publishedAt": "2025-10-23T08:01:05Z"
+        },
+        {
+          "title": "Eurostat: Deșeuri din ambalaje de plastic în UE, 35,3 kg pe persoană / România, aproximativ 32% rată de reciclare, sub media UE și în treimea inferioară a clasamentului / Ținta europeană de 55% în 202",
+          "url": "https://www.g4media.ro/eurostat-deseuri-din-ambalaje-de-plastic-in-ue-353-kg-pe-persoana-romania-aproximativ-32-rata-de-reciclare-sub-media-ue-si-in-treimea-inferioara-a-clasamentului-tinta-europeana-de-55-in-2025.html",
+          "publishedAt": "2025-10-23T08:01:05Z"
+        },
+        {
+          "title": "Orașul din România care introduce penalizări la factură pentru deșeuri necolectate selectiv",
+          "url": "https://www.dcnews.ro/orasul-din-romania-care-introduce-penalizari-la-factura-pentru-deseuri-necolectate-selectiv_1014341.html",
+          "publishedAt": "2025-10-21T10:18:00Z"
+        },
+        {
+          "title": "Românii sunt printre campionii UE la risipa alimentară. Comisia ne învață cum putem folosi alimentele rămase și a doua zi",
+          "url": "https://stirileprotv.ro/stiri/social/romanii-sunt-printre-campionii-ue-la-risipa-alimentara-comisia-ne-invata-cum-putem-folosi-alimentele-ramase-si-a-doua-zi.html",
+          "publishedAt": "2025-10-19T16:40:00Z"
+        },
+        {
+          "title": "Un secretar de stat dă vina pe virgulă pentru problemele de colectare separată a deșeurilor: \"Apare peste tot unde e și o obligație\"",
+          "url": "https://www.antena3.ro/mediu/un-secretar-de-stat-da-vina-pe-virgula-pentru-problemele-de-colectare-separata-a-deseurilor-apare-peste-tot-unde-e-si-o-obligatie-763337.html",
+          "publishedAt": "2025-10-16T10:49:00Z"
+        },
+        {
+          "title": "Autoritățile din Bulgaria și România au analizat acțiuni comune împotriva construirii unui incinerator pentru deșeuri medicale la Giurgiu",
+          "url": "https://www.g4media.ro/autoritatile-din-bulgaria-si-romania-au-analizat-actiuni-comune-impotriva-construirii-unui-incinerator-pentru-deseuri-medicale-la-giurgiu.html",
+          "publishedAt": "2025-10-16T06:15:15Z"
+        },
+        {
+          "title": "Schimbarile Necesare privind Deseurile Anuntate de Ministrul Mediului cu Masuri Necesare in Romania",
+          "url": "https://www.idevice.ro/2025/10/14/schimbarile-necesare-deseurile-anuntate-ministrul-mediului-masuri-necesare-romania-626786/",
+          "publishedAt": "2025-10-14T12:35:18Z"
+        }
+      ]
+    },
+    "locala": {
+      "news": []
+    },
+    "sanatate": {
+      "news": []
+    },
+    "educationala": {
+      "news": []
+    },
+    "turistica": {
+      "news": []
+    },
+    "sportiva": {
+      "news": []
+    }
+  }
+}
