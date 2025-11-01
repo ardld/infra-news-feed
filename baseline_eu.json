@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2025-09-01T00:00:00Z",
+  "chapters": {
+    "rutier":       { "baseline": "UE actualizează coridoarele TEN-T și standardele de siguranță rutieră; finanțările CEF țintesc completarea rețelelor strategice." },
+    "feroviar":     { "baseline": "Prioritate UE: ERTMS, eliminarea îngustărilor de capacitate și creșterea traficului de marfă pe magistrale." },
+    "portuar":      { "baseline": "Politici UE pentru porturi verzi, digitalizare și coridoare logistice multimodale." },
+    "aeroportuar":  { "baseline": "Aviația UE: decarbonizare, managementul sloturilor și interoperabilitate; EASA actualizează standardele." },
+    "energetic":    { "baseline": "Fit-for-55, interconexiuni 15%, integrarea RES și stocare; proiecte PCI/PMI la scară europeană." },
+    "apa":          { "baseline": "Revizuirea directivelor pentru apa potabilă și monitorizarea calității; investiții în reziliență." },
+    "canal":        { "baseline": "Directiva ape uzate urbane extinsă: standarde mai stricte, linii de nămol, recuperare resurse." },
+    "iluminat":     { "baseline": "Eficiență energetică în spații publice; programe pentru iluminat inteligent." },
+    "deseuri":      { "baseline": "Economia circulară; ținte de reciclare mai ridicate; reguli pentru textile, DEEE, ambalaje." },
+    "locala":       { "baseline": "Politica de coeziune sprijină infrastructura locală și tranziția verde/digitală." },
+    "sanatate":     { "baseline": "EU4Health și reziliența sistemelor; investiții în infrastructură și digitalizare." },
+    "educationala": { "baseline": "Spațiul european al educației: infrastructuri moderne, conectivitate și laboratoare digitale." },
+    "turistica":    { "baseline": "Turism durabil, managementul destinațiilor, conectivitate multimodală." },
+    "sportiva":     { "baseline": "Infrastructură sportivă incluzivă, eficiență energetică, rol comunitar." }
+  }
+}
